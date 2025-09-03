@@ -1,1 +1,1 @@
-# prg
+This code takes a sentence from the user, checks how it starts (for greetings or goodbyes), then prints either a preset or custom message. It also reverses the sentence and counts how many words it contains, using Python string manipulation and basic functions.
